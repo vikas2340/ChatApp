@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553233643379",
+    "project_id": "neat-roots-chatapp-92669",
+    "storage_bucket": "neat-roots-chatapp-92669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553233643379:android:e73967c228545113d8f706",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553233643379-vrnvmtibtuuvrha1g7b612bs9cebullb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dHDIaCSerZqlKCk-qd-I_0Abg_UX1Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553233643379-vrnvmtibtuuvrha1g7b612bs9cebullb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
